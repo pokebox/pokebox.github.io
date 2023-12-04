@@ -18,3 +18,5 @@ pokebox的个人网站，暂时没写啥……
 
 [**V4L2LOOPBACK的应用**](blog/v4l2_loopback.md)
 
+[**针对双系统Linux开机出现grub rescue的解决方案**](blog/grub_rescue.md)
+
