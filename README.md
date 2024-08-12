@@ -21,7 +21,7 @@ pokebox的个人网站，暂时没写啥……
 [**针对双系统Linux开机出现grub rescue的解决方案**](blog/grub_rescue.md)
 
 ---
-<div id="footer-links" style="position: fixed; bottom: 0; width: 100%; background-color: #f1f1f1; text-align: center; padding: 10px; border-top: 1px solid #ccc;">
-  <a href="https://beian.miit.gov.cn/">桂ICP备18009060号-1</a>
-</div>
 
+<div id="footer-links" style="position: fixed !important; bottom: 0 !important; width: 100% !important; text-align: center !important; padding: 10px !important;">
+    <a href="https://beian.miit.gov.cn/">桂ICP备18009060号-1</a>
+</div>
