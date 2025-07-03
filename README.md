@@ -1,6 +1,4 @@
-# pokebox的点
-
-pokebox的个人网站，暂时没写啥……
+PokeBox的个人网站，一个喜欢折腾小东西的博主，偶尔开开赛车，玩玩射箭
 
 ## blog
 
@@ -22,6 +20,3 @@ pokebox的个人网站，暂时没写啥……
 
 ---
 
-<div id="footer-links" style="position: fixed !important; bottom: 0 !important; width: 100% !important; text-align: center !important; padding: 10px !important;">
-    <a href="https://beian.miit.gov.cn/">桂ICP备18009060号-1</a>
-</div>
