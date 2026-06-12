@@ -1,7 +1,4 @@
----
-title: ubuntu add zhcn tty
-date: 2024-01-01
----
+## ubuntu 安装中文支持，让tty终端支持中文显示
 
 **要在Ubuntu中添加中文支持并使TTY终端支持中文显示，可以按照以下步骤进行操作：**
 

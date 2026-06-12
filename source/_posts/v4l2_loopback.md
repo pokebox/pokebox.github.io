@@ -1,7 +1,4 @@
----
-title: v4l2 loopback
-date: 2024-01-01
----
+### v4l2 loopback的应用
 
 用ffmpeg串流到本地回环设备并加上时间戳，可以当网络摄像头用。
 
