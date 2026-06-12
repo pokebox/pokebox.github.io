@@ -134,10 +134,10 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: Theme Redefine
+  title: PokeBox
   # Home banner subtitle
   subtitle:
-    text: [] # subtitle text, array
+    text: ["摄影", "赛车", "滑雪", "潜水", "跳伞", "科技", "数码"] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -177,11 +177,11 @@ home_banner:
     # Social links
     links:
       - icon: github # can also be "fa-brands fa-github"
-        url:
+        url: https://github.com/pokebox
       - icon: twitter
         url:
       - icon: email
-        url: you@example.com
+        url: 
       - icon: telegram
         url:
       - icon: /images/custom-icon.svg
